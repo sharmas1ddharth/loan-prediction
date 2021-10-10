@@ -1,0 +1,11 @@
+1. Number of males who applied for loan is greater than number of females.
+2. Number of married people who applied for loan is greater than unmarried.
+3. Number of people without any dependents who applied for loan is greater and number of people with 1 or 2 dependents are almost the same, number of people with 3 or more than 3 dependents are less.
+4.Number of graduate people are greater than who are not graduate.
+5. Number of people who are self-employed are less likely to apply for loan than who are not self-employed.
+6. Number of people whose property area are in semiurban area are more, number of people with urban property area are less than semiurban and people with rural property area are less.
+7. Most of the applicant who apply for loan have income less than 10,000.
+8. Most of the co-applicant who apply for loan have income less than 10,000.
+9. Loan Amount of most of the people lies between 0 to 200 months.
+10. Loan Amount Term of most of the people is in the range of 300 to 400.
+11. Most of the people who applied for loan have credit history.
